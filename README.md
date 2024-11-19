@@ -6,125 +6,117 @@ Note : If you would like to have a deeper understanding of the concepts by under
 
 Course 1 : Supervised Machine Learning: Regression and Classification
 
-Week 1
+There are 3 modules in this course
+In the first course of the Machine Learning Specialization, you will:
 
-Practice quiz: Regression
-Practice quiz: Supervised vs unsupervised learning
-Practice quiz: Train the model with gradient descent
-Optional Labs 
-Model Representation
-Cost Function
-Gradient Descent
+• Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.
+• Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression
 
+The Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. In this beginner-friendly program, you will learn the fundamentals of machine learning and how to use these techniques to build real-world AI applications. 
 
-Week 2
+This Specialization is taught by Andrew Ng, an AI visionary who has led critical research at Stanford University and groundbreaking work at Google Brain, Baidu, and Landing.AI to advance the AI field.
 
-Practice quiz: Gradient descent in practice
-Practice quiz: Multiple linear regression
-Optional Labs
-Numpy Vectorization
-Multi Variate Regression
-Feature Scaling
-Feature Engineering
-Sklearn Gradient Descent
-Sklearn Normal Method
-Programming Assignment
-Linear Regression
+This 3-course Specialization is an updated and expanded version of Andrew’s pioneering Machine Learning course, rated 4.9 out of 5 and taken by over 4.8 million learners since it launched in 2012. 
 
-Week 3
+It provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)
 
-Practice quiz: Cost function for logistic regression
-Practice quiz: Gradient descent for logistic regression
-Optional Labs
-Classification
-Sigmoid Function
-Decision Boundary
-Logistic Loss
-Cost Function
-Gradient Descent
-Scikit Learn - Logistic Regression
-Overfitting
-Regularization
-Programming Assignment
-Logistic Regression
-Certificate Of Completion
+By the end of this Specialization, you will have mastered key concepts and gained the practical know-how to quickly and powerfully apply machine learning to challenging real-world problems. If you’re looking to break into AI or build a career in machine learning, the new Machine Learning Specialization is the best place to start.
 
-Course 2 : Advanced Learning Algorithms
-Week 1
+Read more
+Welcome to the Machine Learning Specialization! You're joining millions of others who have taken either this or the original course, which led to the founding of Coursera, and has helped millions of other learners, like you, take a look at the exciting world of machine learning!
 
-Practice quiz: Neural networks intuition
-Practice quiz: Neural network model
-Practice quiz: TensorFlow implementation
-Practice quiz : Neural Networks Implementation in Numpy
-Optional Labs
-Neurons and Layers
-Coffee Roasting
-Coffee Roasting Using Numpy
-Programming Assignment
-Neural Networks for Binary Classification
+What's included
+20 videos
+1 reading
+3 assignments
+1 app item
+4 ungraded labs
 
-Week 2
+20 videos
+•
+Total 146 minutes
+Welcome to machine learning!•2 minutes•Preview module
+Applications of machine learning•4 minutes
+What is machine learning?•5 minutes
+Supervised learning part 1•6 minutes
+Supervised learning part 2•7 minutes
+Unsupervised learning part 1•8 minutes
+Unsupervised learning part 2•3 minutes
+Jupyter Notebooks•4 minutes
+Linear regression model part 1•10 minutes
+Linear regression model part 2•6 minutes
+Cost function formula•9 minutes
+Cost function intuition•15 minutes
+Visualizing the cost function•8 minutes
+Visualization examples•6 minutes
+Gradient descent•8 minutes
+Implementing gradient descent•9 minutes
+Gradient descent intuition•7 minutes
+Learning rate•9 minutes
+Gradient descent for linear regression•6 minutes
+Running gradient descent•5 minutes
+1 reading
+•
+Total 2 minutes
+[IMPORTANT] Have questions, issues or ideas? Join our Forum!•2 minutes
+3 assignments
+•
+Total 35 minutes
+Practice quiz: Supervised vs unsupervised learning•15 minutes
+Practice quiz: Regression•10 minutes
+Practice quiz: Train the model with gradient descent•10 minutes
+1 app item
+•
+Total 1 minute
+Intake Survey•1 minute
+4 ungraded labs
+•
+Total 240 minutes
+Python and Jupyter Notebooks•60 minutes
+Optional lab: Model representation•60 minutes
+Optional lab: Cost function•60 minutes
+Optional lab: Gradient descent•60 minutes
+This week, you'll extend linear regression to handle multiple input features. You'll also learn some methods for improving your model's training and performance, such as vectorization, feature scaling, feature engineering and polynomial regression. At the end of the week, you'll get to practice implementing linear regression in code.
 
-Practice quiz : Neural Networks Training
-Practice quiz : Activation Functions
-Practice quiz : Multiclass Classification
-Practice quiz : Additional Neural Networks Concepts
-Optional Labs
-RElu
-Softmax
-Multiclass Classification
-Programming Assignment
-Neural Networks For Handwritten Digit Recognition - Multiclass
+What's included
+10 videos
+2 assignments
+1 programming assignment
+5 ungraded labs
 
-Week 3
-Practice quiz : Advice for Applying Machine Learning
-Practice quiz : Bias and Variance
-Practice quiz : Machine Learning Development Process
-Programming Assignment
-Advice for Applied Machine Learning
+This week, you'll learn the other type of supervised learning, classification. You'll learn how to predict categories using the logistic regression model. You'll learn about the problem of overfitting, and how to handle this problem with a method called regularization. You'll get to practice implementing logistic regression with regularization at the end of this week!
 
-Week 4
-Practice quiz : Decision Trees
-Practice quiz : Decision Trees Learning
-Practice quiz : Decision Trees Ensembles
-Programming Assignment
-Decision Trees
-Certificate of Completion
+What's included
+12 videos
+2 readings
+4 assignments
+1 programming assignment
+9 ungraded labs
 
-Course 3 : Unsupervised Learning, Recommenders, Reinforcement Learning
+Instructors
+Instructor ratings
 
-Week 1
-Practice quiz : Clustering
-Practice quiz : Anomaly Detection
-Programming Assignments
-K means
-Anomaly Detection
+5.0
+(
+9,017 ratings
+)
+Andrew Ng
+Top Instructor
 
-Week 2
-Practice quiz : Collaborative Filtering
-Practice quiz : Recommender systems implementation
-Practice quiz : Content-based filtering
-Programming Assignments
-Collaborative Filtering RecSys
-RecSys using Neural Networks
-
-Week 3
-Practice quiz : Reinforcement learning introduction
-Practice Quiz : State-action value function
-Practice Quiz : Continuous state spaces
-Programming Assignment
-Deep Q-Learning - Lunar Lander
-Certificate of Completion
-Specialization Certificate
+Andrew Ng
+DeepLearning.AI
+45 Courses
+•
+7,823,547 learners
 
 
-Stargazers over time
-Stargazers over time
 
-Hits
 
-Course Review :
-This Course is a best place towards becoming a Machine Learning Engineer. Even if you're an expert, many algorithms are covered in depth such as decision trees which may help in further improvement of skills.
+Offered by
 
-Special thanks to Professor Andrew Ng for structuring and tailoring this Course.
+DeepLearning.AI
+
+
+Stanford University
+
 
